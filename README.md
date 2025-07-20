@@ -52,7 +52,7 @@ Menor que 18.5    |      	Abaixo do peso
 ---------------------
   1.  Clone ou baixe o repositório.
 
-  2.  Abra o arquivo index.html no seu navegador.
+  2.  Abra o arquivo `index.html` no seu navegador.
 
   3.  Digite seus dados e clique em Calcular.
 
