@@ -34,13 +34,13 @@ Este é um projeto simples para calcular o Índice de Massa Corporal (IMC), dese
 
 📊 Classificações de IMC
 ---------------------
-IMC (kg/m²)              	Classificação       
-Menor que 18.5          	Abaixo do peso
-18.5 – 24.9              	Peso normal
-25.0 – 29.9	              Excesso de peso
-30.0 – 34.9	              Obesidade classe I
-35.0 – 39.9	              Obesidade classe II
-40.0 ou mais            	Obesidade classe III
+IMC (kg/m²)       |       	Classificação       
+Menor que 18.5    |      	Abaixo do peso
+18.5 – 24.9       |       	Peso normal
+25.0 – 29.9	      |        Excesso de peso
+30.0 – 34.9	      |        Obesidade classe I
+35.0 – 39.9	      |        Obesidade classe II
+40.0 ou mais      |      	Obesidade classe III
 
 🚀 Como Executar
 ---------------------
